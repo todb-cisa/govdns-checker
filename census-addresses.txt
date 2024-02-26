@@ -1,4 +1,3 @@
-WEB_ADDRESS
 http://www.autaugaco.org
 http://www.baldwincountyal.gov
 http://www.co.blount.al.us/

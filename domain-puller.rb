@@ -32,7 +32,7 @@ def create_domain_array(domains)
         next unless domain
         registered_domains << PublicSuffix.domain(domain)
     end
-    return registered_domains
+    return registered_domains.sort.uniq
 end
 
 websites = File.readlines(ARGV[0]).map(&:chomp)
