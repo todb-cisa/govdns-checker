@@ -4530,7 +4530,7 @@ http://www.cityofkingsley.org
 http://www.glenviewky.gov
 http://www.rollingfieldsky.org
 http://www.cityofbarbourmeade.org
-http://www.-cityofmeadowvale.org
+http://www.cityofmeadowvale.org
 http://www.indianhillsky.gov
 http://www.parkwayvillageky.com
 http://www.neighborhoodlink.com/wellington
@@ -7251,7 +7251,7 @@ http://www.newdoseytownship.com
 http://www.co.pine.mn.us
 http://www.royaltontownship.com
 http://mooselake-net.com/windemere/
-http://www.ci.white-bear.-township.mn.us
+http://www.ci.white-bear-township.mn.us
 http://www.ci.morristown.mn.us/township/
 http://www.cottontownship.org
 http://www.grandlaketownship.org
