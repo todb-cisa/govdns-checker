@@ -40,6 +40,6 @@ hosts_array = create_host_array(websites)
 registered_array = create_domain_array(hosts_array)
 
 registered_array.each do |domain|
-    next if domain.nil?
+    next unless domain
     puts domain
 end
